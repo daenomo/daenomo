@@ -13,3 +13,5 @@
 * [daenomo - ニコニコ](https://www.nicovideo.jp/user/22580960)
 * [daenomo (daenomo)](https://github.com/daenomo)
 * [daenomo – daenomo.wordpress.com](https://daenomo.wordpress.com/)
+
+[雑メモ置き場](https://daenomo.github.io/)
