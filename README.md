@@ -1,7 +1,3 @@
----
-layout: default
-title: アカウント一覧
----
 書いておかないと忘れそうなのでアカウントの一覧をメモ
 
 * [daenomo（@daenomo） / X](https://x.com/daenomo)
